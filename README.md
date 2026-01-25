@@ -3,6 +3,11 @@
 ## Overview
 Resources for educ-project-2026
 
+### Resources needed for the project
+
+- alarm-clock-sound.wav
+- qr code urls
+- spam emails
 
 ### Useful Links
 (go through these short 5 minute tutorials on the first day and again later in the week if needed for topic refresh)

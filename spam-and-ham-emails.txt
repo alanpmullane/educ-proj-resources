@@ -1,0 +1,3 @@
+previous_spam = ['send us your password', 'review our website', 'send your password', 'send us your account']
+previous_ham = ['Your activity report','benefits physical activity', 'the importance vows']
+new_emails = {'spam':['renew your password', 'renew your vows'], 'ham':['benefits of our account', 'the importance of physical activity']}
