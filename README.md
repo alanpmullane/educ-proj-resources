@@ -20,6 +20,7 @@ Resources for educ-project-2026
 
 (how qr codes work)
 - qr codes oveview: https://www.youtube.com/watch?v=H289YBQo7VI
+- qr code gen in python: https://www.youtube.com/watch?v=wQPIN15mbMw
 
 (how spam filter works)
 - spam filtering overview: https://www.youtube.com/watch?v=_iOxylrN4Io
