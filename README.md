@@ -3,6 +3,22 @@
 ## Overview
 Resources for educ-project-2026
 
+
+### Useful Links
+(go through these on first day and again later in the week if needed for topic refresh)
+
+- mac ios terminal overview: https://www.youtube.com/watch?v=ZkoEHvG3GI8
+
+- linux overview: https://www.youtube.com/watch?v=rrB13utjYV4
+- vi editor basics: https://www.youtube.com/watch?v=4WQAF9B7HCk
+- vim editor overview: https://www.youtube.com/watch?v=Hn4y-SoyKIc
+
+- qr codes oveview: https://www.youtube.com/watch?v=H289YBQo7VI
+
+- spam filtering overview: https://www.youtube.com/watch?v=_iOxylrN4Io
+
+
+
 ## Details
 
 
@@ -141,6 +157,12 @@ Setting up python
 
 (TODO)
 
+
+Setup credentials for git:
+```
+git config --global user.name "Alan Mullane"
+git config --global user.email "alan.p.mullane@googlemail.com"
+```
 
 
 Setting up a git source code repo
