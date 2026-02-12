@@ -300,6 +300,21 @@ Push new projects to remote git repo
 
 ### git repo commands
 
+- setup ssh key
+```
+ssh-keygen -t rsa -b 4096 -C "<add-your-user-email-here>"
+```
+
+- after creating and accepting defaults, copy and paste id_rsa.pub contents to your github.com account'sssh keys in admin
+```
+cat ~/.ssh/id_rsa.pub
+```
+
+- clone repo (crete first on github.com)
+```
+git clone git@github.com:<username>/educ-proj-resources.git
+```
+
 - create a new repository on the command line
 ```
 echo "# educ-proj-resources" >> README.md
