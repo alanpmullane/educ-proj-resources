@@ -298,9 +298,7 @@ Push new projects to remote git repo
 
 
 
-
-
-### git stuff
+### git repo commands
 
 - create a new repository on the command line
 ```
