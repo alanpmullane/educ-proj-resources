@@ -322,9 +322,10 @@ git config --global --list
 Do this step only if user name and user email are not set or incorrect from previous step to check git user config.
 ```
 git config --global user.name "<your-user-name>"
-git conf
+git config --global user.email "<your-user-email>"
+```
 
-- clone repo (crete first on github.com)
+- clone git repo (crete first on github.com)
 ```
 git clone git@github.com:<username>/educ-proj-resources.git
 ```
